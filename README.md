@@ -1,3 +1,3 @@
-Windows 10 Appx Dependencies
-This is still in WIP, please wait
-arm dependencies coming soon!
+get your dependency here
+wip, i cant get all the dependencies
+all dependencies here work on rtm
